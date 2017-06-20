@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/16 17:38:05.000.019,=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/16 17:39:45.000.476,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\U_P.dfm</Transaction>
+    <Transaction>2017/05/16 17:39:45.000.476,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\U_P.pas</Transaction>
+    <Transaction>2017/05/16 17:40:00.000.343,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\prj_Menubol.dproj</Transaction>
+    <Transaction>2017/05/16 17:40:08.000.135,=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit1.pas</Transaction>
+    <Transaction>2017/05/16 17:47:02.000.568,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit1.pas=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\U_MenuEscroto.pas</Transaction>
+    <Transaction>2017/05/17 08:51:30.000.730,=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit2.pas</Transaction>
+    <Transaction>2017/05/17 08:54:42.000.847,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit2.pas=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\U_WEBBRO.pas</Transaction>
+    <Transaction>2017/05/17 08:54:42.000.847,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit2.dfm=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\U_WEBBRO.dfm</Transaction>
+    <Transaction>2017/05/19 12:22:45.000.466,=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit3.pas</Transaction>
+    <Transaction>2017/05/19 12:23:05.000.910,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit3.dfm=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\frmTeste.dfm</Transaction>
+    <Transaction>2017/05/19 12:23:05.000.910,C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit3.pas=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\frmTeste.pas</Transaction>
+    <Transaction>2017/05/21 20:52:48.000.515,=C:\Users\Kaynã\Documents\Embarcadero\Studio\Projects\Project\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
