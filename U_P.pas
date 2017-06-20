@@ -116,9 +116,9 @@ begin
    panel.Top := 288;
    panel.Left := 400;
    panel.Name := 'pnl' + Edit1.Text;
-   panel.Height := 44;
+   panel.Height := 45;
    panel.Caption := '';
-   inc(fsTeste, 44);
+   inc(fsTeste, 45);
 end;
 
 procedure TForm1.BitBtn7Click(Sender: TObject);
